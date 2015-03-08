@@ -22,6 +22,7 @@ Installation
 ------------
 
 T-Service is on PyPI, install it with: ``pip install tservice``.
+T-Service works on Python 2.7 and Python 3.
 
 Usage
 -----
