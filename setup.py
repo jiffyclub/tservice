@@ -14,7 +14,7 @@ setup(
     long_description=long_description,
     author='Matt Davis',
     author_email='jiffyclub@gmail.com',
-    url='https://jiffyclub.github.io/tservice/',
+    url='https://github.com/jiffyclub/tservice',
     packages=find_packages(),
     install_requires=['tornado >= 4.0'],
     entry_points={
