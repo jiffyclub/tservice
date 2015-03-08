@@ -10,7 +10,7 @@ setup(
     name='tservice',
     version='1.0.0dev',
     description=(
-        'Quick static file server'),
+        'Start a local Tornado static file server'),
     long_description=long_description,
     author='Matt Davis',
     author_email='jiffyclub@gmail.com',
