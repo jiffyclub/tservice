@@ -8,7 +8,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='tservice',
-    version='1.1.0dev',
+    version='1..0dev',
     description=(
         'Start a local Tornado static file server'),
     long_description=long_description,
@@ -23,4 +23,7 @@ setup(
         'License :: OSI Approved :: ISC License (ISCL)',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
-        'Programming Language :: Python :: 3'])
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.2',
+        'Programming Language :: Python :: 3.3',
+        'Programming Language :: Python :: 3.4'])
