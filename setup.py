@@ -8,7 +8,7 @@ with open('README.rst', 'r') as f:
 
 setup(
     name='tservice',
-    version='1..0dev',
+    version='1.1.0dev',
     description=(
         'Start a local Tornado static file server'),
     long_description=long_description,
