@@ -19,6 +19,7 @@ setup(
     install_requires=['tornado >= 4.0'],
     entry_points={
         'console_scripts': ['tserve = tservice.cli:main']},
+    tests_require=['requests >= 2.0'],
     classifiers=[
         'License :: OSI Approved :: ISC License (ISCL)',
         'Programming Language :: Python',
