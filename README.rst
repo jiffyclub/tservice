@@ -1,6 +1,10 @@
 T-Service
 =========
 
+.. image:: https://travis-ci.org/jiffyclub/tservice.svg?branch=master
+    :target: https://travis-ci.org/jiffyclub/tservice
+    :alt: Build Status
+
 .. image:: https://pypip.in/version/tservice/badge.svg
     :target: https://pypi.python.org/pypi/tservice/
     :alt: Latest Version
