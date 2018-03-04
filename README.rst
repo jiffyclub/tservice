@@ -5,15 +5,15 @@ T-Service
     :target: https://travis-ci.org/jiffyclub/tservice
     :alt: Build Status
 
-.. image:: https://pypip.in/version/tservice/badge.svg
+.. image:: https://img.shields.io/pypi/v/tservice.svg
     :target: https://pypi.python.org/pypi/tservice/
     :alt: Latest Version
 
-.. image:: https://pypip.in/py_versions/tservice/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/tservice.svg
     :target: https://pypi.python.org/pypi/tservice/
     :alt: Supported Python versions
 
-.. image:: https://pypip.in/wheel/tservice/badge.svg
+.. image:: https://img.shields.io/pypi/wheel/tservice.svg
     :target: https://pypi.python.org/pypi/tservice/
     :alt: Wheel Status
 
